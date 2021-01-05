@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1530081576 source:e:\数据结构\数据结构二\实验二\tsp\main.cpp
+	<iostream>
+	"MCST.h"
+	"stdio.h"
+	"stdlib.h"
+	<ctime>
+
+1530261287 e:\数据结构\数据结构二\实验二\tsp\mcst.h
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
+1569490078 source:d:\数据结构\数据结构二\实验二\tsp算法\main.cpp
+	<iostream>
+	"MCST.h"
+	"stdio.h"
+	"stdlib.h"
+	<ctime>
+	<sstream>
+	<iostream>
+
+1569490139 d:\数据结构\数据结构二\实验二\tsp算法\mcst.h
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
+1570513756 source:g:\材料\数据结构\数据结构二\实验二\tsp算法\main.cpp
+	<iostream>
+	"MCST.h"
+	"stdio.h"
+	"stdlib.h"
+	<ctime>
+	<sstream>
+	<iostream>
+
+1569490140 g:\材料\数据结构\数据结构二\实验二\tsp算法\mcst.h
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
+1584714376 source:f:\材料\数据结构\数据结构二\实验二\tsp算法\main.cpp
+	<iostream>
+	"MCST.h"
+	"stdio.h"
+	"stdlib.h"
+	<ctime>
+	<sstream>
+	<iostream>
+
+1584714190 f:\材料\数据结构\数据结构二\实验二\tsp算法\mcst.h
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
+1609865595 source:c:\users\10219\desktop\tsp算法\main.cpp
+	<iostream>
+	"MCST.h"
+	"stdio.h"
+	"stdlib.h"
+	<ctime>
+	<sstream>
+	<iostream>
+
+1609866920 c:\users\10219\desktop\tsp算法\mcst.h
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+	"stdlib.h"
+	<ctime>
+	<sstream>
+	<iostream>
+
